@@ -1,2 +1,1 @@
-# dev_web_django
-# dev_web_django
+#Atividades de Desenvolvimento Web II com Django :snake:
